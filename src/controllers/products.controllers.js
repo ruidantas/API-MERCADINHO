@@ -114,4 +114,4 @@ class ProductControllers {
   };
 }
 
-module.exports = controllers.products = new ProductControllers();
+module.exports = productsControllers = new ProductControllers();
